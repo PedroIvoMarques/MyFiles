@@ -6,7 +6,7 @@
 
 #### Aluno de Graduação da Universidade do Estado do Rio de Janeiro.
 
-- [ ] [Plataforma Lattes]()
+- [ ] [Plataforma Lattes](http://lattes.cnpq.br/5139936188503438)
 
 
 
